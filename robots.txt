@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://binghomepagequiz.herokuapp.com/host-https-binghomepagequiz.org/post-sitemap.xml
+Sitemap: https://binghomepagequiz.herokuapp.com/sitemap.xml
